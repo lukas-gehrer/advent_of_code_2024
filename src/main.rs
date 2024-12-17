@@ -12,4 +12,5 @@ fn main() {
     door04::solution::part_one();
     door04::solution::part_two();
     door05::solution::part_one();
+    door05::solution::part_two();
 }

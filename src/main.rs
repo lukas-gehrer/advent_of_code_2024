@@ -2,6 +2,7 @@ mod door01;
 mod door03;
 mod door04;
 mod door05;
+mod door06;
 mod read_lines;
 
 fn main() {
@@ -13,4 +14,5 @@ fn main() {
     door04::solution::part_two();
     door05::solution::part_one();
     door05::solution::part_two();
+    door06::solution::part_one();
 }
